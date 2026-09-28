@@ -13,7 +13,6 @@
 
 ## 配置与技能维护
 
-- 全局 AGENTS.md 和技能由维护会话统一修改, 其他会话转交修改需求
-- 维护记录: `~/.codex/skill-maintenance.md`
+- 全局 AGENTS.md 和技能由维护会话统一修改, 其他会话转交需求, 维护记录见 `~/.codex/skill-maintenance.md`
 
 本规则也须遵守以上要求, 新增内容优先合并到已有章节
